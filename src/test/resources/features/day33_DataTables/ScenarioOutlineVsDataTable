@@ -1,0 +1,17 @@
+Scenari Outline ile DDT yapılabilir. Scenario Outline iyi bilinmelidir.
+Test adimlarini(STEPS) daha reusable yapmak icin kullanilir
+En çok kullanılan cucumber ozelliklerinden biridir
+Examples kelimesi veri girisleri icin kullanilmalidir
+Step definitionslardaki data tipi STRING'dir
+Examples kelimesi en sonda kullanilir
+
+
+Data Tables ile DDT yapılabilir
+Test adimlarini(STEPS) daha reusable yapmak icin kullanilir
+Scenari Outline kadar yaygın degildir
+Examples kelimesi kullanılmaz
+Step definitionslardaki data tipi DATATABLE 'dir'
+DataTablelar ara adimlardada(STEPS) kullanilabilir
+
+
+NOT: Datatables ve Scenario Outline birlikle kullanilabilir
